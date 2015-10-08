@@ -1,4 +1,4 @@
-DIFT 2015 Algorithms Course Helper
+DIHT 2015 Algorithms Course Helper
 ==================================
 
 To compile the programs you will need a C++14 - compatible compiler, e.g. GCC 4.5+ or Clang 3.5+ or MS VS C++ 2015.
